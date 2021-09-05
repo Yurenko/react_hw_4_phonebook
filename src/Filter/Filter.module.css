@@ -1,0 +1,20 @@
+.contact {
+    list-style: none;
+    padding-left: 0;
+}
+
+.contact li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: rgb(228, 78, 78);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
